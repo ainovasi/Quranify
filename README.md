@@ -2,7 +2,7 @@
 
 
 
-
+# Quranify
 IDE dan Compiler : Lazarus FreePascal 4.4 [ https://www.lazarus-ide.org/ ]
 
 Pustaka Tambahan:
