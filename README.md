@@ -7,6 +7,7 @@ BricByPas menghadirkan aplikasi quran digital yang mencakup terjemah , tafsir , 
 aplikasi ini didukung kemampunan menterjemahkan kitab tafsir , hadist dan menyusun artikel dakwah  
 
 Didesain menggunakan Lazarus FPC 4.4
+
 Paket Lengkap bisa didownload di sini ( 800 Mb )
 
 ---------------------------------
@@ -16,4 +17,5 @@ BricByPas presents a digital Quran application that includes translations, tafsi
 This application is equipped with the ability to translate tafsir and hadith books, as well as compose da'wah articles.
 
 Designed using Lazarus FPC 4.4
+
 The complete package can be downloaded here (800 MB)
